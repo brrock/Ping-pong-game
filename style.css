@@ -12,6 +12,28 @@ h1 {
     margin-bottom: 10px;
 }
 
+#modeToggle {
+    margin-bottom: 5px;
+    padding: 10px 18px;
+    font-size: 16px;
+    background: #333;
+    color: #fff;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+#modeToggle:hover {
+    background: #444;
+}
+
+#modeText {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 15px;
+    color: #aaa;
+}
+
 #pong {
     background: #111;
     display: block;
